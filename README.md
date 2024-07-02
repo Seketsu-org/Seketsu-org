@@ -6,13 +6,12 @@
 
 
 ## 🌐 Socials:
- ![https://guns.lol/seketsu](https://assets.guns.lol/guns_logo_no_background_cropped.png)]
-[![guns.lol](https://guns.lol/seketsu) 
+
+# [Click Here](https://guns.lol/seketsu)
 
 
 # 📊 GitHub Stats:
-
-![Seketsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seketsu-org&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seketsu-org&theme=dark&show_icons=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Seketsu-org&theme=dark&hide_border=false)<br/>
 
