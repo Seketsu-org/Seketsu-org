@@ -1,6 +1,6 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,discord,docker,py,vscode,git&perline=4)](https://skillicons.dev)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seketsu&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seketsu-org&theme=dark&show_icons=true)
 
 # 💫 About Me:
 ⚡▸Just a random dev<br>🔎▸Based on JavaScript<br>🍃▸French dev
@@ -26,7 +26,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=Seketsu-org&icon=0&color=0)](https://visitcount.itsvg.in)
 
- [![Discord Presence](https://lanyard.cnrad.dev/api/1135989202325098569)](https://discord.com/users/860921402776616970)
+ [![Discord Presence](https://lanyard.cnrad.dev/api/860921402776616970)](https://discord.com/users/860921402776616970)
 
  ![alt text](https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg)
 
