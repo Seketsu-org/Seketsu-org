@@ -1,6 +1,5 @@
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,discord,docker,py,vscode,git&perline=4)](https://skillicons.dev)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seketsu-org&theme=dark&show_icons=true)
+
 
 # 💫 About Me:
 ⚡▸Just a random dev<br>🔎▸Based on JavaScript/py/html/css<br>🍃▸French dev
@@ -11,9 +10,13 @@
 
 
 # 📊 GitHub Stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seketsu-org&theme=dark&show_icons=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Seketsu-org&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Seketsu-org&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,discord,docker,py,vscode,git&perline=4)](https://skillicons.dev)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Seketsu-org&theme=radical&no-frame=false&no-bg=true&margin-w=4)
