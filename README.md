@@ -2,8 +2,9 @@
 
 
 # 💫 About Me:
-⚡▸Just a random dev<br>🔎▸Based on JavaScript/py/html/css<br>🍃▸French dev
-
+⚡▸ *Nuv dev* <br>🔎▸Based on JavaScript/py/html/css<br>🍃▸*Arch Linux + blackarch keyrings packages user*
+<br>
+[![](https://visitcount.itsvg.in/api?id=Seketsu&label=Count%20viewer&color=12&icon=3&pretty=true)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 
@@ -28,7 +29,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[![](https://visitcount.itsvg.in/api?id=Seketsu&label=Count%20viewer&color=12&icon=3&pretty=true)](https://visitcount.itsvg.in)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/860921402776616970)](https://discord.com/users/860921402776616970) 
 
