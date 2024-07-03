@@ -2,8 +2,10 @@
 
 
 # 💫 About Me:
-⚡▸ *Nuv dev* <br>🔎▸Based on JavaScript/py/html/css<br>🍃▸*Arch Linux + blackarch keyrings packages user*
+⚡▸ *Nuv dev* <br>🔎▸Based on JavaScript/py/html/css<br>🍃▸*Arch Linux + blackarch keyrings packages user*  ![alt text](https://cdn.discordapp.com/emojis/738550945696317501.webp?size=128&quality=lossless)
 <br>
+
+
 [![](https://visitcount.itsvg.in/api?id=Seketsu&label=Count%20viewer&color=12&icon=3&pretty=true)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
