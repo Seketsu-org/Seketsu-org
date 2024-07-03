@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-⚡▸ *Nuv dev* <br>🔎▸Based on JavaScript/py/html/css<br>🍃▸*Arch Linux + blackarch keyrings packages user*  ![alt text](https://cdn.discordapp.com/emojis/738550945696317501.webp?size=48&quality=lossless)
+⚡▸ *Nuv dev* <br>🔎▸Based on JavaScript/py/html/css<br>🍃▸*Arch Linux + blackarch keyrings packages user*  ![alt text](https://cdn.discordapp.com/emojis/738550945696317501.webp?size=5&quality=lossless)
 <br>
 
 
