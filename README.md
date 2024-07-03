@@ -30,7 +30,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=Seketsu&label=Count%20viewer&color=12&icon=3&pretty=true)](https://visitcount.itsvg.in)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/860921402776616970)](https://discord.com/users/860921402776616970) ![alt text](https://cdn.discordapp.com/attachments/1139569734271119381/1258130473352167454/Screenshot_2024-07-03_194906-modified_1.png?ex=6686eccf&is=66859b4f&hm=fde5a29ffd6ac088a793528bd78ee1b9860da8e12ad011120f42b2f6680a8161&)
+[![Discord Presence](https://lanyard.cnrad.dev/api/860921402776616970)](https://discord.com/users/860921402776616970) 
 
  ![alt text](https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg)
 
