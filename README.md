@@ -1,5 +1,5 @@
 
-
+ ![alt text](https://cdn.discordapp.com/attachments/1139569734271119381/1258341791061643264/seketsu_github.png?ex=6687b19d&is=6686601d&hm=7b3fb02b4d0b88d25ef4673366b7968ca1d0c463c72db3d0ed5c13fec90e20aa&)
 
 # 💫 About Me:
 ⚡▸ *Nuv dev* <br>🔎▸Based on JavaScript/py/html/css<br>🍃▸**Arch Linux + blackarch keyrings packages user**  ![alt text](https://cdn.discordapp.com/emojis/738550945696317501.webp?size=20&quality=lossless)
